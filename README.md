@@ -1,2 +1,2 @@
 # NECStudio
-NEC Studio First Repo
+NEC Studio First Src Repo
